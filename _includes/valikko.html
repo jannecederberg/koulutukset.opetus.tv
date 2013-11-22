@@ -1,0 +1,26 @@
+<div class="navbar-inner">
+    <div class="container">
+        <a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+        </a>
+        <a class="brand" href="http://opetus.tv">
+          <img src="/img/logo-opetustv_oranssi_no-hover.png" width="78" height="20" alt="Opetus.tv logo" />
+        </a>
+        <a href="/" class="brand">Koulutukset</a>
+        <div class="nav-collapse collapse">
+            <ul class="nav navbar-nav">
+                {% assign sorted_pages = site.pages | sort:"name" %}
+                {% for node in sorted_pages %}
+                    <li><a href="{{node.url}}"><span class="icon-white icon-{{ node.ikoni }}"></span> {{node.title}}</a></li>
+                {% endfor %}
+            </ul>
+            <div class="pull-right">
+              <iframe src="//www.facebook.com/plugins/like.php?href=http%3A%2F%2Ffacebook.com%2Fopetus.tv&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=dark&amp;font=trebuchet+ms&amp;height=21"
+                scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px;" allowTransparency="true">
+              </iframe>
+            </div>
+        </div><!--/.nav-collapse -->
+    </div>
+</div>

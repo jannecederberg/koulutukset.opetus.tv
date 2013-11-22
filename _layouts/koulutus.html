@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<div class="row">
+	<section class="span8 koulutus">
+		<h1>{{ page.title }}</h1>
+		{{ content }}
+
+	    {% include disqus.html %}
+	</section>
+
+	<aside class="span3">
+		<div class="well">
+			<h2>Koulutuksen tiedot</h2>
+		    <ul>
+		    	<li><strong>Milloin:</strong> {{ page.date | date:"%d.%m.%Y" }}, {{ page.aika }}</li>
+		    	<li><strong>Missä:</strong> {{ page.paikka }}</li>
+		    	<li><strong>Järjestäjä:</strong> {{ page.jarjestaja }}</li>
+		    	<li><strong>Kouluttaja(t):</strong> {{ page.kouluttaja }}</li>
+		    	<!--li><strong>Kuvaus:</strong> {{ page.kuvaus }}</li-->
+		    </ul>
+		</div>
+
+		<div class="well">
+			<h2>Liity postituslistalle</h2>
+			<p>Saat tietoa tulevista koulutuksista:</p>
+			<iframe width="210" height="120" src="http://app.emailfactory.fi/subscribe_form?token=59ebf6cb74d9e66bd6e9988e678d529e" frameborder="0"></iframe>
+		</div>
+	</aside>
+</div>

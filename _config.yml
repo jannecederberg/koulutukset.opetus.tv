@@ -1,0 +1,5 @@
+name: Opetus.tv:n koulutukset
+markdown: redcarpet
+pygments: true
+permalink: /:year/:month/:day/:title/
+safe: true
