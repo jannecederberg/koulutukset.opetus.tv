@@ -43,7 +43,7 @@ Kotona ohjelmaa käyttäessäsi yksinkertaisin on mennä internet-selaimella oso
 
 ### GeoGebra-harjoitukset
 
-Avaa **[GeoGebra-harjoitukset PDF-tiedostosta](/tiedostot/koulutukset/GeoGebra-ohjeet_2014-04-14.pdf)**.
+Avaa <a class="btn" href="/tiedostot/koulutukset/GeoGebra-ohjeet_2014-04-14.pdf">GeoGebra-harjoitukset PDF-tiedostosta</a>
 
 
 ## LibreOffice Writerin perusteet
@@ -58,11 +58,11 @@ Digabi-käyttöjärjestelmässä LibreOffice tulee valmiiksi asennettuna. Mikäl
 
 ### LibreOffice-harjoitusohjeet
 
-Tavoitteena on harjoitella otsikko- ja kappaletyylien käyttämistä ja sisällysluettelon luomista LibreOffice-ohjelmaa käyttäen. Samat periaatteet toimivat myös Microsoft Officen kanssa, joskin asiat löytyvät hiukan eri valikoista: **[Katso harjoitusohjeet PDF-tiedostosta](/tiedostot/koulutukset/LibreOfficeWriter-ohjeet_2014-04-14.pdf)**.
+Tavoitteena on harjoitella otsikko- ja kappaletyylien käyttämistä ja sisällysluettelon luomista LibreOffice-ohjelmaa käyttäen. Samat periaatteet toimivat myös Microsoft Officen kanssa, joskin asiat löytyvät hiukan eri valikoista: <a class="btn" href="/tiedostot/koulutukset/LibreOfficeWriter-ohjeet_2014-04-14.pdf">Katso harjoitusohjeet PDF-tiedostosta</a>
 
 
 ## Angry Birds -pulmatehtäviä
 
-Mikäli haluat lisäjuttuna harjoitella hiukan ohjelmoinnin perusteita, tässä on hyviä harjoituksia. Voit myös kokeilla tarjota näitä vaikkapa alakouluikäisille lapsillesi, todennäköisesti tykkäävät kovasti: [Avaa harjoitustehtävät](http://learn.code.org/hoc/1).
+Mikäli haluat lisäjuttuna harjoitella hiukan ohjelmoinnin perusteita, tässä on hyviä harjoituksia. Voit myös kokeilla tarjota näitä vaikkapa alakouluikäisille lapsillesi, todennäköisesti tykkäävät kovasti: <a class="btn" href="http://learn.code.org/hoc/1">Avaa harjoitustehtävät</a>
 
 Nämä harjoitukset eivät liity ylioppilaskokeeseen, mutta ovat hauskoja pulmia ja hyviä ajatusharjoituksia.
