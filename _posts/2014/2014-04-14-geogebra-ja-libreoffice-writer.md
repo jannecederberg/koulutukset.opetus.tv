@@ -21,11 +21,11 @@ GeoGebra on monipuolinen dynaamisen geometrian ohjelma. GeoGebra on hyödyllinen
 - Ohjelman kielen vaihto
 - Fonttikoon vaihto
 - Kuvaajan piirtäminen
-    f(x) = 2x+1
-    g(x) = x^2-3x-2
-    h(x) = sin(x)
+    - f(x) = 2x+1
+    - g(x) = x^2-3x-2
+    - h(x) = sin(x)
 - Ruudukko näkyviin
-- Liukusäätimet ja paraabeli ax² + bx + c
+- Liukusäätimet ja paraabeli ax^2 + bx + c
 - Tekstikenttä, joka näyttää edellisen lausekkeen kertoimineen
 - Neliön konstruointi
 
