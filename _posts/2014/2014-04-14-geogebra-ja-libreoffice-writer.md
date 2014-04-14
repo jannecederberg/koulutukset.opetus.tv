@@ -2,7 +2,7 @@
 layout: koulutus
 title: Sähköisen YO-kokeen ohjelmat (GeoGebra ja LibreOffice)
 categories: koulutukset
-date: 2013-11-19 16:00:00
+date: 2014-04-14 15:00:00
 
 jarjestaja: Forssan Yhteislyseo
 paikka: Forssa
