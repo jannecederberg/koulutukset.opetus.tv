@@ -43,7 +43,7 @@ Kotona ohjelmaa käyttäessäsi yksinkertaisin on mennä internet-selaimella oso
 
 ### GeoGebra-harjoitukset
 
-Avaa  [GeoGebra-harjoitukset PDF-tiedostosta](/tiedostot/koulutukset/GeoGebra-ohjeet_2014-04-14.pdf).
+Avaa **[GeoGebra-harjoitukset PDF-tiedostosta](/tiedostot/koulutukset/GeoGebra-ohjeet_2014-04-14.pdf)**.
 
 
 ## LibreOffice Writerin perusteet
