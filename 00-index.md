@@ -18,8 +18,8 @@ ikoni: home
 			Huomaa, että <a href="http://opetus.tv">Opetus.tv</a> ja <a href="http://maot.fi" title="Matematiikan opetuksen tulevaisuus">Maot.fi</a> toimivat tiivissä yhteistyössä ja osa toimijoista on samoja.
 		</p>
 		<p style="text-align: center;">
-			<a href="/listaus/" class="btn btn-warning btn-large">Tarkastele koulutuksia</a> tai
-			<a href="/tilaa-koulutus" class="btn btn-large">Tilaa koulutus</a>
+			<a href="/listaus/" class="btn btn-large">Tarkastele koulutuksia</a> tai
+			<a href="/tilaa-koulutus" class="btn btn-warning btn-large">Tilaa koulutus</a>
 		</p>
 	</div>
 
