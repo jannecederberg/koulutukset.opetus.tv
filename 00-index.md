@@ -9,17 +9,13 @@ ikoni: home
 
 <div class="row">
 	<div class="hero-unit text-centered">
-		<h1>Koulutustarjonta</h1>
+		<h1>Digabi-käyttöjärjestelmäkoulutukset</h1>
 		<p>
-			Opetus.tv tarjoaa pedagogisia koulutuksia uudenlaisista opetuskäytänteistä.
-			Pedagogisten koulutusten lisäksi Opetus.tv tarjoaa koulutuksia tieto- ja viestintätekniikan hyödyntämisestä opetuskäytössä.
-		</p>
-		<p>
-			Huomaa, että <a href="http://opetus.tv">Opetus.tv</a> ja <a href="http://maot.fi" title="Matematiikan opetuksen tulevaisuus">Maot.fi</a> toimivat tiivissä yhteistyössä ja osa toimijoista on samoja.
+			Opetus.tv tarjoaa koulutuksia ylioppilaskokeisiin käyttöön tulevaan Digabi-käyttöjärjestelmään liittyen; yli 1500 opetusvideon ja yli kahden miljoonan videokatselun kokemuksella!
 		</p>
 		<p style="text-align: center;">
-			<a href="/listaus/" class="btn btn-large">Tarkastele koulutuksia</a> tai
-			<a href="/tilaa-koulutus" class="btn btn-warning btn-large">Tilaa koulutus</a>
+			<a href="/tilaa-koulutus" class="btn btn-warning btn-large">Tilaa koulutus</a> tai
+			<a href="/listaus/" class="btn btn-large">Tarkastele koulutuksia</a>
 		</p>
 	</div>
 
