@@ -9,7 +9,7 @@ ikoni: home
 
 <div class="row">
 	<div class="hero-unit text-centered">
-		<h1>Digabi-käyttöjärjestelmäkoulutukset</h1>
+		<h1>DigabiOS-koulutukset</h1>
 		<p>
 			Opetus.tv tarjoaa koulutuksia ylioppilaskokeisiin käyttöön tulevaan Digabi-käyttöjärjestelmään liittyen; yli 1500 opetusvideon ja yli kahden miljoonan videokatselun kokemuksella!
 		</p>
