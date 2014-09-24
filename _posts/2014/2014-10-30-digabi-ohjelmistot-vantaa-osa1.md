@@ -1,6 +1,6 @@
 ---
 layout: koulutus
-title: Sähköisen YO-kokeen ohjelmat
+title: Sähköisen YO-kokeen ohjelmat, osa 1/2
 categories: koulutukset
 date: 2014-10-30 13:00:00
 

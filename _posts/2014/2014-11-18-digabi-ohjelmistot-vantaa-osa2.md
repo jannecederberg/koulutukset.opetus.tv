@@ -1,6 +1,6 @@
 ---
 layout: koulutus
-title: Sähköisen YO-kokeen ohjelmat (GeoGebra ja LibreOffice)
+title: Sähköisen YO-kokeen ohjelmat, osa 2/2
 categories: koulutukset
 date: 2014-11-18 13:00:00
 
