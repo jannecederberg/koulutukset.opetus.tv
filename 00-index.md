@@ -18,29 +18,4 @@ ikoni: home
 			<a href="/listaus/" class="btn btn-large">Tarkastele koulutuksia</a>
 		</p>
 	</div>
-
-	<div class="span12">
-		<h2>Uusimmat koulutukset</h2>
-
-		<table class="table">
-			<tr>
-				<th>Päivämäärä</th>
-				<!--th>Aika</th-->
-				<th>Otsikko</th>
-				<th>Koulutuspaikka</th>
-				<!--th>Kouluttaja(t)</th-->
-			</tr>
-
-			{% for koulutus in site.categories.koulutukset limit:3 %}
-			<tr>
-				<td>{{ koulutus.date | date:"%d.%m.%Y" }}</td>
-				<!--td>{{ koulutus.aika }}</td-->
-		    	<td><a href="{{ koulutus.url }}">{{ koulutus.title }}</a></td>
-		    	<td>{{ koulutus.paikka }}</td>
-		    	<!--td>{{ koulutus.kouluttaja }}</td-->
-		    </tr>
-			{% endfor %}
-
-		</table>
-	</div>
 </div>
