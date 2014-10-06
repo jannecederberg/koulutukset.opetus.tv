@@ -48,13 +48,17 @@ Oleelliset elementit sisäisen motivaation rakentumiseen/vahvistumiseen ovat sos
 
 Daniel Pinkin sosiologian tutkimukseen pohjautuvan esitelmän pohjalta laadittu piirrosanimaatio aiheesta:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
+<div class="embed-container">
+  <iframe width="560" height="315" src="//www.youtube.com/embed/u6XAPnuFjJc" frameborder="0" allowfullscreen></iframe>
+</div>
 
 ### Math class needs a makeover
 
 Dan Meyer on matematiikan opettaja, joka on omalta osaltaan kyseenalaistanut perinteisiä opetuskäytänteitä. Videon ideat ovat sovellettavissa muihinkin oppiaineisiin kuin matematiikkaan:
 
-<iframe src="https://embed-ssl.ted.com/talks/dan_meyer_math_curriculum_makeover.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<div class="embed-container">
+  <iframe src="https://embed-ssl.ted.com/talks/dan_meyer_math_curriculum_makeover.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+</div>
 
 ## Muistiinpanot pajan lopun keskustelusta
 
