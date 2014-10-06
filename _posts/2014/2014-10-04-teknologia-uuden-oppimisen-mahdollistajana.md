@@ -24,4 +24,4 @@ Oma osuuteni käsitteli teknologian avaamia mahdollisuuksia uuden oppimisen näk
 
 Tästä voit vilkaista esityksen slidejä, joiden pitäisi toimia kaikilla päätelaitteilla kännyköistä tietokoneisiin.
 
-<a class="btn btn-warning" href="{{ site.url }}/slidet/2014-10-04_vesanto.htm" title="Teknologia uuden oppimisen mahdollistajana -slidet">Katso luennon slidet</a>
+<a class="btn btn-warning" href="{{ site.url }}/tiedostot/slidet/2014-10-04_vesanto.htm" title="Teknologia uuden oppimisen mahdollistajana -slidet">Katso luennon slidet</a>

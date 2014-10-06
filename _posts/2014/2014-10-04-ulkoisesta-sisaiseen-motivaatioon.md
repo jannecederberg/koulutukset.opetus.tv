@@ -55,3 +55,11 @@ Daniel Pinkin sosiologian tutkimukseen pohjautuvan esitelmän pohjalta laadittu 
 Dan Meyer on matematiikan opettaja, joka on omalta osaltaan kyseenalaistanut perinteisiä opetuskäytänteitä. Videon ideat ovat sovellettavissa muihinkin oppiaineisiin kuin matematiikkaan:
 
 <iframe src="https://embed-ssl.ted.com/talks/dan_meyer_math_curriculum_makeover.html" width="560" height="315" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+## Muistiinpanot pajan lopun keskustelusta
+
+Molemmissa pajoissa käytettiin oman esitelmäosuuteni jälkeen noin 20 minuuttia keskusteluun ja ideointiin pöytäryhmissä. Tavoitteena oli miettiä päivän antia ja sitä kuinka päivän aikana mieleen noussutta voisi laittaa käytäntöön omaan opetusarkeen.
+
+Huomaa, että muistiinpanot eivät sellaisenaan välttämättä aukea sellaisille, jotka eivät olleet tilaisuudessa paikalla.
+
+<a class="btn btn-warning" href="{{ site.url }}/tiedostot/muistiinpanot/2014-10-04_vesanto_pajakommentit_ryhma1.txt" title="Ryhmän 1 muistiinpanot">Ryhmän 1 muistiinpanot</a> <a class="btn btn-warning" href="{{ site.url }}/tiedostot/muistiinpanot/2014-10-04_vesanto_pajakommentit_ryhma2.pdf" title="Ryhmän 2 muistiinpanot">Ryhmän 2 muistiinpanot</a>
