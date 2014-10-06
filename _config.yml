@@ -1,5 +1,5 @@
 name: Opetus.tv:n koulutukset
 markdown: redcarpet
-highlighter: pygments
+pygments: true
 permalink: /:year/:month/:day/:title/
 safe: true
