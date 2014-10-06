@@ -1,0 +1,3 @@
+[submodule "reveal.js"]
+    path = tiedostot/slides/reveal.js
+    url  = git@github.com:jannecederberg/reveal.js.git
